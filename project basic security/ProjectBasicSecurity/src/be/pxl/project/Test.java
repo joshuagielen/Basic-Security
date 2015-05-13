@@ -7,7 +7,6 @@ public class Test {
  
       FileEncryption fe = new FileEncryption();
       fe.makeKey();
-      fe.
- 
+      
     }
 }
