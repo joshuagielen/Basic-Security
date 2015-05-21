@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 0 elements to &apos;ProjectBasicSecurity/src/be.pxl.guiEncrypteren&apos;&#x0D;&#x0A;- Destination element: &apos;ProjectBasicSecurity/src/be.pxl.guiEncrypteren&apos;" description="Copy compilation units" destination="=ProjectBasicSecurity/src&lt;be.pxl.guiEncrypteren" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1426176352989" units="0" version="1.0"/>
-</session>
