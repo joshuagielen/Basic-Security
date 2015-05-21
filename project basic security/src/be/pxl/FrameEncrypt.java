@@ -34,6 +34,9 @@ public class FrameEncrypt extends JFrame implements ActionListener {
 		super("Encryptie programma");
 		this.setLayout(new FlowLayout());
 		
+		
+		fileKiezer.setControlButtonsAreShown(false);
+		
 		EncryptButton = new JButton("Encrypteer");
 		EncryptButton.addActionListener(this);
 		panel1 = new JPanel(new BorderLayout());
@@ -114,6 +117,8 @@ public class FrameEncrypt extends JFrame implements ActionListener {
 		
 		
 	
+		
+
 		
 		
 	}
